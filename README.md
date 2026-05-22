@@ -28,3 +28,7 @@ Gerçek hayatta bu projenin; IoT sensörleri, kamera sistemleri, Google Maps API
 
 ---
 👨‍💻 **Geliştirici:** Kübra Şen - Yönetim Bilişim Sistemleri (YBS) 2. Sınıf Öğrencisi
+<img width="2048" height="1075" alt="WhatsApp Image 2026-05-22 at 13 40 06" src="https://github.com/user-attachments/assets/dfa0f15d-93a6-4e88-a800-6f53a0aa93b0" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-05-22 at 13 39 16" src="https://github.com/user-attachments/assets/5d473cee-0170-4a6c-bb68-3f36091c012f" />
+
+<img width="1170" height="733" alt="WhatsApp Image 2026-05-22 at 13 39 32" src="https://github.com/user-attachments/assets/3a7fa21e-fe77-4aa0-9b52-b1a88ddd78e4" />
