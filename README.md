@@ -1,0 +1,1 @@
+# yogunluk-tabanli-alisveris-uygulamasi
