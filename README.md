@@ -32,3 +32,5 @@ Gerçek hayatta bu projenin; IoT sensörleri, kamera sistemleri, Google Maps API
 <img width="1408" height="768" alt="WhatsApp Image 2026-05-22 at 13 39 16" src="https://github.com/user-attachments/assets/5d473cee-0170-4a6c-bb68-3f36091c012f" />
 
 <img width="1170" height="733" alt="WhatsApp Image 2026-05-22 at 13 39 32" src="https://github.com/user-attachments/assets/3a7fa21e-fe77-4aa0-9b52-b1a88ddd78e4" />
+
+<img width="1408" height="768" alt="WhatsApp Image 2026-05-22 at 13 51 41" src="https://github.com/user-attachments/assets/fea2844a-d061-4118-952b-252cb933872d" />
